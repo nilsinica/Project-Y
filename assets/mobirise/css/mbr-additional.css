@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+#header1-1 H1 {
+  color: #802a53;
+  font-size: 84px;
+}
+#header1-1 .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box5-2 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box5-2 .lead P {
+  color: #ffffff;
+}
+#msg-box5-2 .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
